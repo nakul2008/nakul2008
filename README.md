@@ -33,14 +33,8 @@ I explore software, AI, web development, robotics, and creative technology — w
 
 ## Featured Projects
 
-### 🏛️ HeritageAtlas
-AI-powered cultural heritage explorer focused on making historical and cultural information more accessible.
-
 ### ⚖️ Apex-Leagal
 A modern law-firm web experience built with Next.js and Tailwind CSS.
-
-### 🏫 Village Pathshala
-A responsive educational website concept designed around a simple and accessible user experience.
 
 ### 💻 Portfolio
 My personal portfolio showcasing projects, experiments, and the things I'm building.
